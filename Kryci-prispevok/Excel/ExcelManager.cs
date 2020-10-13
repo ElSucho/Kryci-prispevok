@@ -9,6 +9,7 @@ namespace Kryci_prispevok
 {
     class ExcelManager
     {
+        //spracovanie a vytvorenie Excelu
         public void Spracuj_Excel(string ExcelName)
         {
             if (ExcelName == null)
